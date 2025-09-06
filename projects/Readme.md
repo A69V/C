@@ -69,7 +69,13 @@ Each project has been built with the aim of gaining a **deep engineering underst
   │   ├── tinydb.c <br>
   │   ├── README.md <br>
   │   └── Makefile <br>
-  │ ├── allocator/  # Project 5: Custom Memory Allocator │   ├── allocator.c │   ├── README.md │   └── Makefile │ └── README.md             # Main repository description
+  │ 
+  ├── allocator/  # Project 5: Custom Memory Allocator 
+  │   ├── allocator.c 
+  │   ├── README.md 
+  │   └── Makefile 
+  │ 
+  └── README.md  # Main repository description
 
 ---
 
