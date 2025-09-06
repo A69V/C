@@ -70,11 +70,11 @@ Each project has been built with the aim of gaining a **deep engineering underst
   │   ├── README.md <br>
   │   └── Makefile <br>
   │ 
-  ├── allocator/  # Project 5: Custom Memory Allocator 
-  │   ├── allocator.c 
-  │   ├── README.md 
-  │   └── Makefile 
-  │ 
+  ├── allocator/  # Project 5: Custom Memory Allocator <br>
+  │   ├── allocator.c <br>
+  │   ├── README.md <br>
+  │   └── Makefile <br>
+  │ <br>
   └── README.md  # Main repository description
 
 ---
