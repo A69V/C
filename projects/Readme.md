@@ -49,12 +49,12 @@ Each project has been built with the aim of gaining a **deep engineering underst
 ---
 
 ## 📑 Index of Files
-. ├── myshell/ # Project 1: Custom Shell 
-  │   ├── shell.c 
-  │   ├── README.md 
-  │   └── Makefile 
-  │ 
-  ├── compression/ # Project 2: File Compression Tool 
+. ├── myshell/ # Project 1: Custom Shell <br>
+  │   ├── shell.c <br>
+  │   ├── README.md <br>
+  │   └── Makefile <br>
+  │ <br>
+  ├── compression/ # Project 2: File Compression Tool <br>
   │   ├── huffman.c 
   │   ├── README.md 
   │   └── Makefile 
