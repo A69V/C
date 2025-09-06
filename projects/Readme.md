@@ -49,26 +49,26 @@ Each project has been built with the aim of gaining a **deep engineering underst
 ---
 
 ## 📑 Index of Files
-. ├── myshell/ # Project 1: Custom Shell <br>
+ ├── myshell/ # Project 1: Custom Shell <br>
   │   ├── shell.c <br>
   │   ├── README.md <br>
   │   └── Makefile <br>
   │ <br>
   ├── compression/ # Project 2: File Compression Tool <br>
-  │   ├── huffman.c 
-  │   ├── README.md 
-  │   └── Makefile 
-  │ 
-  ├── http/  # Project 3: HTTP Client & Server 
-  │   ├── server.c 
-  │   ├── client.c 
-  │   ├── README.md 
-  │   └── Makefile 
-  │ 
-  ├── tinydb/  # Project 4: Tiny Database Engine 
-  │   ├── tinydb.c 
-  │   ├── README.md 
-  │   └── Makefile 
+  │   ├── huffman.c <br>
+  │   ├── README.md <br>
+  │   └── Makefile <br>
+  │ <br>
+  ├── http/  # Project 3: HTTP Client & Server <br>
+  │   ├── server.c <br>
+  │   ├── client.c <br>
+  │   ├── README.md <br>
+  │   └── Makefile <br>
+  │ <br>
+  ├── tinydb/  # Project 4: Tiny Database Engine <br>
+  │   ├── tinydb.c <br>
+  │   ├── README.md <br>
+  │   └── Makefile <br>
   │ ├── allocator/  # Project 5: Custom Memory Allocator │   ├── allocator.c │   ├── README.md │   └── Makefile │ └── README.md             # Main repository description
 
 ---
